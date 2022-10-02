@@ -307,12 +307,12 @@
   .container {
     max-width: 500px;
   }
-  .navbar__menu {
+  /* .navbar__menu {
     display: none;
   }
   .navbar__icon {
     display: block;
-  }
+  } */
 }
 
 @media (max-width: 568px) {
